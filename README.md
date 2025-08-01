@@ -1,2 +1,2 @@
 # AirlineProject
-Airline Web Api project with Django
+Web Api project with Django (AirlineManagementSystem)
